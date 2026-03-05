@@ -1,3 +1,3 @@
 # NeuroBootstrap
 
-Currently updating and adding additional analyses.
+Code for weighted bootstrap augmentation and EEG decoding.
